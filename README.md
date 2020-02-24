@@ -9,6 +9,11 @@ Lastly, I went into spotify and manually selected the songs!
 Thanks for reading.
 
 Sources: 
+Spotipy Documentation
 https://spotipy.readthedocs.io/en/2.9.0/#api-reference
+
+Web API Materials
 https://developer.spotify.com/documentation/web-api/quick-start/
+
+Functions used to grab specific data attributes for individuals songs
 https://medium.com/@samlupton/spotipy-get-features-from-your-favourite-songs-in-python-6d71f0172df0
